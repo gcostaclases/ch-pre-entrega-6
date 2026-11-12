@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "titulo": "Primeros pasos con Python",
+    "contenido": "Conceptos básicos de Python.",
+    "autor": {
+      "nombre": "Guillermina Costa",
+      "bio": "Desarrolladora web y creadora de contenido sobre programación.",
+      "especialidad": "Python y Django",
+      "redes_sociales": [
+        "@guilledev",
+        "@guillecosta"
+      ]
+    },
+    "tags": [
+      "Python",
+      "Principiantes",
+      "Backend"
+    ],
+    "estado": "publicado"
+  },
+  {
+    "id": 2,
+    "titulo": "Qué es Django",
+    "contenido": "Django es un framework web escrito en Python.",
+    "autor": {
+      "nombre": "Guillermina Costa",
+      "bio": "Desarrolladora web y creadora de contenido sobre programación.",
+      "especialidad": "Python y Django",
+      "redes_sociales": [
+        "@guilledev",
+        "@guillecosta"
+      ]
+    },
+    "tags": [
+      "Python",
+      "Django",
+      "Web"
+    ],
+    "estado": "borrador"
+  },
+  {
+    "id": 3,
+    "titulo": "Organizando datos con diccionarios",
+    "contenido": "Los diccionarios almacenan pares clave-valor.",
+    "autor": {
+      "nombre": "Guillermina Costa",
+      "bio": "Desarrolladora web y creadora de contenido sobre programación.",
+      "especialidad": "Python y Django",
+      "redes_sociales": [
+        "@guilledev",
+        "@guillecosta"
+      ]
+    },
+    "tags": [
+      "Python",
+      "Diccionarios"
+    ],
+    "estado": "archivado"
+  },
+  {
+    "id": 4,
+    "titulo": "Manejo de errores en Python",
+    "contenido": "Aprendé a manejar errores comunes.",
+    "autor": {
+      "nombre": "Guillermina Costa",
+      "bio": "Desarrolladora web y creadora de contenido sobre programación.",
+      "especialidad": "Python y Django",
+      "redes_sociales": [
+        "@guilledev",
+        "@guillecosta"
+      ]
+    },
+    "tags": [
+      "Python",
+      "Errores"
+    ],
+    "estado": "publicado"
+  },
+  {
+    "id": 5,
+    "titulo": "Automatizando tareas con Python",
+    "contenido": "Algunas tareas repetitivas pueden resolverse con scripts.",
+    "autor": {
+      "nombre": "Luis Martínez",
+      "bio": "Desarrollador y entusiasta de la automatización.",
+      "especialidad": "Python y testing",
+      "redes_sociales": [
+        "@luispython"
+      ]
+    },
+    "tags": [
+      "Python",
+      "Automatización"
+    ],
+    "estado": "publicado"
+  },
+  {
+    "id": 6,
+    "titulo": "Pruebas para código más confiable",
+    "contenido": "Las pruebas ayudan a detectar errores antes de publicar.",
+    "autor": {
+      "nombre": "Luis Martínez",
+      "bio": "Desarrollador y entusiasta de la automatización.",
+      "especialidad": "Python y testing",
+      "redes_sociales": [
+        "@luispython"
+      ]
+    },
+    "tags": [
+      "Python",
+      "Testing"
+    ],
+    "estado": "borrador"
+  },
+  {
+    "id": 7,
+    "titulo": "",
+    "contenido": "",
+    "autor": {
+      "nombre": "Guillermina Costa",
+      "bio": "Desarrolladora web y creadora de contenido sobre programación.",
+      "especialidad": "Python y Django",
+      "redes_sociales": [
+        "@guilledev",
+        "@guillecosta"
+      ]
+    },
+    "tags": "Python",
+    "estado": "publicado"
+  },
+  {
+    "id": 8,
+    "titulo": "Hola es una prueba",
+    "contenido": "de prueba",
+    "autor": {
+      "nombre": "Pepito",
+      "bio": "",
+      "especialidad": "",
+      "redes_sociales": []
+    },
+    "tags": [
+      "Python",
+      "Django"
+    ],
+    "estado": "borrador"
+  },
+  {
+    "id": 9,
+    "titulo": "otra prueba",
+    "contenido": "mas pruebas",
+    "autor": {
+      "nombre": "Alfonso",
+      "bio": "",
+      "especialidad": "",
+      "redes_sociales": []
+    },
+    "tags": [
+      "Python"
+    ],
+    "estado": "borrador"
+  }
+]
